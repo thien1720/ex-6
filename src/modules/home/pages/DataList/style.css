@@ -1,0 +1,22 @@
+.app {
+    margin: 0 auto;
+    width: 90%;
+    height: 100%;
+    background-color: #f6f7fb;
+    padding: 20px;
+}
+
+.header {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header .title h5 {
+    color: #1fa9d9;
+}
+
+.head-pay{
+    margin: 30px 0;
+    text-align: center;
+}

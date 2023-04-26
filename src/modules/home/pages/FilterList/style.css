@@ -1,0 +1,19 @@
+.style-form{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.re-input{
+    width: 180px;
+}
+
+.apply-clear{
+}
+button{
+    margin: 0 10px;
+    padding: 6px 30px;
+}
+
+select {
+    cursor: pointer;
+}

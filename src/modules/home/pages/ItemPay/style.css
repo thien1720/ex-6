@@ -1,0 +1,23 @@
+.btn-view{
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.Processing{
+    color: yellow;
+}
+
+.Received{
+    color: #1fa9d9;
+}
+
+.Fulfilled{
+    color: green;
+}
+.Pending{
+    color: #f7cb73;
+}
+.delete{
+    cursor: pointer;
+    color: red;
+}
